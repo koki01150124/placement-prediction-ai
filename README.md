@@ -11,7 +11,7 @@ Kaggleの「College Student Placement Factors Dataset」を使用し、PyTorch�
 - **特徴量:** IQ, 前学期の成績, CGPA, 学業成績評価, インターン経験, 課外活動スコア, コミュニケーションスキル, 完了プロジェクト数
 
 ## 技術スタック
-- **Language:** Python 3.x
+- **Language:** Python 3.12.12
 - **Framework:** PyTorch
 - **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Tqdm
 - **Tool:** Google Colab / Jupyter Notebook
