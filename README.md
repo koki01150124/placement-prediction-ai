@@ -24,8 +24,8 @@ Kaggleの「College Student Placement Factors Dataset」を使用し、PyTorch�
 - Loss Function: Binary Cross Entropy Loss
 
 ## 実行結果
-- **Training Accuracy:** ~90.4%
-- **Test Accuracy:** ~99.6%
+- **Training Accuracy:** ~99.6%
+- **Test Loss:** ~0.02007
 
 ### 学習曲線
 ![Train Loss & Accuracy](images/train_result.png)  
