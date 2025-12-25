@@ -32,6 +32,6 @@ Kaggleの「College Student Placement Factors Dataset」を使用し、PyTorch�
 
 ## セットアップ
 ```bash
-git clone [https://github.com/koki01150124/Placement-Prediction-AI.git](https://github.com/koki01150124/Placement-Prediction-AI.git)
-cd Placement-Prediction-AI
+git clone [https://github.com/koki01150124/placement-prediction-ai.git](https://github.com/koki01150124/placement-prediction-ai.git)
+cd placement-prediction-ai
 pip install -r requirements.txt
